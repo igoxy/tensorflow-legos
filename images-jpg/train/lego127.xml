@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>lego127.png</filename>
+	<path>C:\Users\ifs54\OneDrive\Documentos\TensorFlow\workspace\training_demo\images\lego127.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>92</ymin>
+			<xmax>200</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
