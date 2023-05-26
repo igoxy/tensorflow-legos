@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ideapad</folder>
+	<filename>lego668.jpg</filename>
+	<path>C:\Users\ifs54\OneDrive\Documentos\Faculdade\Computação\IC\dataset-lego-new\ideapad\lego668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>11</ymin>
+			<xmax>262</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

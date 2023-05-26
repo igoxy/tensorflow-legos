@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagens640x480</folder>
+	<filename>lego36.jpg</filename>
+	<path>C:\Users\ifs54\OneDrive\Documentos\Faculdade\Computação\IC\dataset-lego-new\imagens640x480\lego36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>213</ymin>
+			<xmax>385</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

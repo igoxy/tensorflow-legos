@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ideapad</folder>
+	<filename>lego900.jpg</filename>
+	<path>C:\Users\ifs54\OneDrive\Documentos\Faculdade\Computação\IC\dataset-lego-new\ideapad\lego900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>169</ymin>
+			<xmax>258</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
